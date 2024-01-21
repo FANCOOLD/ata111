@@ -1,4 +1,4 @@
-body{
+body {
     font-family: sans-serif;
     background-color:whitesmoke;
 }
@@ -32,10 +32,12 @@ p{
 
 header {
     height: 70px;
+
 }
 
 footer{
     background-color:darkslateblue;
+    text-align: center;
 }
   li{
       color: whitesmoke;
@@ -45,4 +47,15 @@ footer{
     font-size: 20px;
     text-decoration:none;  ;
   }
+
+nav{
+    text-align: center;
+}
+ 
+ main{
+     text-align: center;
+ }
+    
+   
+
 
